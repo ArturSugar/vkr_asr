@@ -4,7 +4,7 @@ from pipeline import process_video
 
 if __name__ == "__main__":
     # Укажи путь к своему видеофайлу
-    video_file = "/Users/artursaharov/Desktop/снимки экрана/Запись экрана 2025-10-15 в 11.02.45.mov"
+    video_file = 
 
     result = process_video(video_file)
 
