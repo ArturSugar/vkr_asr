@@ -1,0 +1,8 @@
+torch
+torchaudio
+pyannote.audio
+moviepy
+librosa
+soundfile
+tqdm
+faster-whisper

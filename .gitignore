@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# macOS
+.DS_Store
+
+# PyCharm
+.idea/
+
+# Audio/Video
+*.wav
+*.mp3
+*.flac
+*.mov
+*.mp4
+
+# JSON outputs
+diarization_*.json
+
+# Models
+models/
